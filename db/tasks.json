@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "description": "Hunt the rabbit",
+    "status": "done",
+    "created_at": "2024-02-20T12:00:00Z",
+    "updated_at": "2024-02-20T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "description": "Dragon slaying",
+    "status": "in-progress",
+    "created_at": "2024-02-20T12:00:00Z",
+    "updated_at": "2024-02-20T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "description": "Gather materials",
+    "status": "todo",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "description": "Coup current king",
+    "status": "todo",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "description": "World domination",
+    "status": "todo",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z"
+  }
+]
